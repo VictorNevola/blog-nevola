@@ -1,0 +1,16 @@
+.posts {
+    margin-top: 15px;
+}
+
+.posts-image {
+    width: 100%;
+    cursor: pointer;
+}
+
+.posts-titles {
+    display: grid;
+}
+
+.posts-titles > span {
+    font-size: 13px;
+}

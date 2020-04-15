@@ -1,0 +1,37 @@
+.form {
+    border: 1px solid transparent;
+    height: 50vh;
+    margin-top: 3%;
+}
+
+.form > h2 {
+    text-align: center;
+}
+
+form {
+    width: 100%;
+    border: 1px solid #BFBCBC;
+    border-radius: 5px;
+    padding: 20px;
+    height: auto;
+}
+
+.form-group > input{
+    background-color: #cecece;
+}
+
+.form-btn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #cecece;
+}
+
+.button-google {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.button-google > img {
+    width: 25px;
+    margin-right: 5px;
+}
